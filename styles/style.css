@@ -14,3 +14,28 @@
     display: flex;
     gap: 2em;
 }
+
+.banner {
+    width: 90vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4em;
+}
+
+.banner-details {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-image {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.banner-image img {
+    width: 70%;
+}
