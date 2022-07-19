@@ -1,0 +1,16 @@
+@import url('./basic.css');
+
+.nav-pc {
+    width: 90vw;
+    margin: auto;
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.menu-bar {
+    list-style: none;
+    display: flex;
+    gap: 2em;
+}
